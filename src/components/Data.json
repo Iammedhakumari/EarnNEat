@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Gola Road,Patna ",
+    "code": "GO", 
+    "shop": "Rupa General Store", 
+    "Contact": " 567283967", 
+    "EmailId":"rupagenralstore456@gmail.com",
+    "Looking":"Salesman ; DeliveryBoy",
+    "image": "./img1/rupa.jpg"
+    
+  },
+  {
+    "name": "Jalalpur City,Patna ",
+    "code": "JAL",
+    "shop":"Aaisha Beauty Parlour ", 
+    "Contact":"927899299", 
+    "EmailId":"aishasingh@145gmail.com",
+    "Looking":"Cleaner ;  Painter",
+    "image": "./img1/beauty.jpg"
+  
+  },
+  {
+    "name": "Gopalganj,Bihar ",
+    "code": "GOP",
+    "shop":"Cafe ", 
+    "Contact":"92789299", 
+    "EmailId":"cafe@15gmail.com",
+    "Looking":"Waiter",
+    "image": "./img1/cafe.jpg"
+  
+  },
+  {
+    "name": "Main Road,Delhi",
+    "code": "MA",
+    "shop": "Sudha Milk Parlour", 
+    "Contact": " 75672839", 
+    "EmailId":"sudhaservices888@gmail.com",
+    "Looking":"Cleaner ;  DeliveryGuy",
+    "image": "./img1/sudha.jpg"
+
+  },
+  {
+    "name": "Jalalpur City,Patna ",
+    "code": "JAL",
+    "shop": "Shakti Sweets", 
+    "Contact": " 9075672839", 
+    "EmailId":"shaktisweet345@gmail.com",
+    "Looking":"Salesman ; Carpenter ; Cleaner",
+    "image": "./img1/sweet.jpg"
+  },
+  {
+    "name": "JK path,Noida",
+    "code": "JK",
+    "shop": "Sudha Milk Parlour", 
+    "Contact": " 75672839", 
+    "EmailId":"sudhaservices45@gmail.com",
+    "Looking":"Salesman",
+    "image": "./img1/milk.jpg"
+  },
+  {
+    "name": "Anna Market,Tamil Nadu",
+    "code": "AN",
+    "shop": "Agrawal Clinic", 
+    "Contact": " 975672839", 
+    "EmailId":"agrawals385@gmail.com",
+    "Looking":"Compounder ; Cleaner",
+    "image": "./img1/clinic.jpg"
+  },
+  {
+    "name": "Bada Bazaar,Delhi",
+    "code": "BA",
+    "shop": "Vastra Vatika", 
+    "Contact": " 875672839", 
+    "EmailId":"vatika123@gmail.com",
+    "Looking":"Salesman ;  Receptionist",
+    "image": "./img1/vatika.jpg"
+  },
+  {
+    "name": "Meena Market,Punjab",
+    "code": "MEE",
+    "shop": "Badi Mandi", 
+    "Contact": " 905672839", 
+    "EmailId":"badimandi234@gmail.com",
+    "Looking":"Cleaner ;  Painter ; DeliveryBoy",
+    "image": "./img1/mandi.jpg"
+  }
+]

@@ -1,0 +1,30 @@
+.about {
+  padding: 80px 0;
+background: #E6E6FA;
+}
+
+.p-25 {
+  padding: 45px;
+}
+
+.about h3 {
+  color: rgba(37, 37, 37, 0.7);
+  font-size: 60px;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+.about h1 {
+  font-size: 30px;
+  color: #252525;
+  font-weight: 600;
+  line-height: 50px;
+  margin-bottom: 15px;
+text-align: center ;
+}
+.about p {
+  font-size: 24px;
+  color: #8b8b8b;
+  font-weight: 300;
+  text-align: justify;
+  margin-right: -150px ;
+}

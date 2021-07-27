@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Gola Road , Patna ",
+    "code": "GO", 
+    "shop": "Rupa General Store", 
+    "Contact": " 5672839", 
+    "EmailId":"rupagenralstore@345gmail.com"
+    
+  },
+  {
+    "name": "Jalalpur City , Patna ",
+    "code": "JAL",
+    "shop":"Shyaam General Store", 
+    "Contact":"527899299", 
+    "EmailId":"shyaagenralstore@145gmail.com"
+  
+  },
+  {
+    "name": "Main Road, Delhi",
+    "code": "AL"
+  },
+  {
+    "name": "Jalalpur City , Patna ",
+    "code": "JAL"
+  },
+  {
+    "name": "JK path, Noida ",
+    "code": "AS"
+  },
+  {
+    "name": "AndorrA",
+    "code": "AD"
+  },
+  {
+    "name": "Angola",
+    "code": "AO"
+  },
+  {
+    "name": "Anguilla",
+    "code": "AI"
+  }
+]
