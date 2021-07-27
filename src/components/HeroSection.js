@@ -17,15 +17,13 @@ function HeroSection() {
         
     
         <Button
-        className='btns'
-        buttonStyle='btn--outline'
-        buttonSize='btn--large'
         variant="primary" size="lg"
-        style={{ background:"none", color:"#fff" }}
+        style={{ background:"#0099ff", color:"#fff", fontSize:"20px" , fontWeight:"bold" }}
           onClick={event =>  window.location.href='/cardA'}
         >
           Need Work
         </Button>
+      
 
         
       </div>
