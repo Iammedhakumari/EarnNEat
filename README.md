@@ -1,3 +1,6 @@
+Our Demo App is deployed on IBM Cloud and can be accessed at https://earn-n-eat.s3-web.eu-gb.cloud-object-storage.appdomain.cloud
+
+**Note**:All data used by us is to be taken for demo purpose and we have not worked with owners of cited businesses. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
