@@ -3,7 +3,9 @@
 ![IMG_20210729_205316](https://user-images.githubusercontent.com/87940287/127519969-a3cc39bf-b8e7-488f-b902-741c5f5a8995.jpg)
 ![IMG_20210729_205259](https://user-images.githubusercontent.com/87940287/127519972-65e444d6-9358-440c-b82f-61435a8f6842.jpg)
 ![IMG_20210729_205241](https://user-images.githubusercontent.com/87940287/127519974-e5bde8d3-ac84-4b0f-993e-429a5d517eb0.jpg)
+
 Our Demo App is deployed on IBM Cloud and can be accessed at https://earn-n-eat.s3-web.eu-gb.cloud-object-storage.appdomain.cloud
+
 
 **Note**:All data used by us is to be taken for demo purpose and we have not worked with owners of cited businesses. 
 # Getting Started with Create React App
